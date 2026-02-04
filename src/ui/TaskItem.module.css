@@ -1,0 +1,19 @@
+.task {
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    cursor: pointer;
+}
+.default {
+    border: 5px solid black;
+    background: #ffffff;
+}
+.highPriority {
+    background: #fba675;
+}
+.selected {
+    border: 5px solid blue;
+}
+.title {
+    text-decoration: line-through;
+}
